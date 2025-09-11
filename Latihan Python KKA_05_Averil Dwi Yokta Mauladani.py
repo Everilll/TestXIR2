@@ -1,6 +1,6 @@
 import math
 
-print("Nama : Averil Dwi Yokta Mauladani \nAbsen : 05\nKelas : XI RPL 2")
+print("Nama : Averil Dwi Yokta Mauladani \nAbsen : 05\nKelas : XI RPL 2\n")
 
 print("Soal no 1")
 integer = 1
@@ -36,4 +36,5 @@ area = math.pi * radius * radius
 circumference = 2*math.pi*radius
 
 print("Luas =",area,"\nKeliling =",circumference)
+
 
